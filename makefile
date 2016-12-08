@@ -5,4 +5,4 @@ run: dir
 clean:
 	rm *~
 	rm *.out
-	rm *.exe
+	rm *.exe 
